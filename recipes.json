@@ -1,20 +1,12 @@
 {
   "recipes": [
     {
-        "id": "1",
-        "title": "Tarte à la framboise",
-        "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/image.png",
-        "description": "Pâte sucrée, confit framboises, crème pâtissière \nFinitions : framboises fraiches",
-        "number": "Pour 8 personnes",
-        "price": "15"
-    },
-    {
-        "id": "2",
-        "title": "Tarte à la fraise",
-        "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/image.png",
-        "description": "Pâte sucrée, confit framboises, crème pâtissière \nFinitions : framboises fraiches",
-        "number": "Pour 8 personnes",
-        "price": "9"
+      "id": "1",
+      "title": "Tartelettes Framboises vanille/Framboise pistache",
+      "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/image.png",
+      "description": "Pâte sucrée, confit framboises, crème pâtissière vanille ou pistaches \nPour la version pistache : praliné pistache, pistaches \nFinitions : framboises fraiches \n(existe aussi en version tarte pour de 6 à 12 personnes)",
+      "number": "Pour 1 personne",
+      "price": "4€ version vanille/5€ version pistache"
     }
   ]
 }
