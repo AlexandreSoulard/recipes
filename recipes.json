@@ -89,6 +89,14 @@
       "price": "Dépend de la taille et du fruit"
     },
     {
+      "id": "12",
+      "title": "Pains suisses",
+      "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Pains_suisses.jpg",
+      "description": "Pâte à croissants, Crème pâtissière vanille, pistoles de chocolat",
+      "number": "Pour 1 pain suisse",
+      "price": "2€"
+    },
+    {
       "id": "15",
       "title": "Tropézienne",
       "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Tropezienne.jpg",
