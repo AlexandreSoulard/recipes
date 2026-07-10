@@ -50,6 +50,22 @@
     },
     {
       "id": "7",
+      "title": "Cookies",
+      "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Cookies.jpg",
+      "description": "Cookies pistache/chocolat au lait (aussi pistache/chocolat blanc, pistache/chocolat noir)",
+      "number": "Pour 1 cookie",
+      "price": "3€"
+    },
+    {
+      "id": "8",
+      "title": "Spritz",
+      "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Spritz.jpg",
+      "description": "Spritz trempés dans du chocolat noir",
+      "number": "Environ 15/20 spritz",
+      "price": "9€"
+    },
+    {
+      "id": "9",
       "title": "Tuiles aux amandes",
       "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Tuiles_amandes.jpg",
       "description": "Tuiles aux amandes",
