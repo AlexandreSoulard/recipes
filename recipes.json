@@ -73,6 +73,14 @@
       "price": "10€"
     },
     {
+      "id": "10",
+      "title": "Tarte aux pommes",
+      "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Tarte_pommes.jpg",
+      "description": "Pâte sucrée, marmelade de pommes, pommes",
+      "number": "Pour 8 personnes",
+      "price": "10€"
+    },
+    {
       "id": "15",
       "title": "Tropézienne",
       "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Tropezienne.jpg",
