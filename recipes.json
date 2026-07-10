@@ -3,7 +3,7 @@
     {
         "id": "1",
         "title": "Tarte à la framboise",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMYjV-RhPFt9Zg_ktKWZ8z61VGoniNPFBSxaNRRFokQ&s=10",
+        "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/image.png",
         "description": "Pâte sucrée, confit framboises, crème pâtissière \nFinitions : framboises fraiches",
         "number": "Pour 8 personnes",
         "price": "15"
@@ -11,7 +11,7 @@
     {
         "id": "2",
         "title": "Tarte à la fraise",
-        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvMYjV-RhPFt9Zg_ktKWZ8z61VGoniNPFBSxaNRRFokQ&s=10",
+        "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/image.png",
         "description": "Pâte sucrée, confit framboises, crème pâtissière \nFinitions : framboises fraiches",
         "number": "Pour 8 personnes",
         "price": "9"
