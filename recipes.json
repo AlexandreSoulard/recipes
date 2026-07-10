@@ -82,6 +82,14 @@
     },
     {
       "id": "11",
+      "title": "Forêt noire",
+      "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Foret_noire.jpg",
+      "description": "Génoise chocolat, crème chantilly, cerises imbibées au kirsch (peut se faire sans alcool), copeaux de chocolat",
+      "number": "individuel",
+      "price": "5€"
+    },
+    {
+      "id": "12",
       "title": "Tarte aux fruits",
       "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Tarte_fraises.jpg",
       "description": "Pâte sucrée, crème pâtissière vanille, fruits",
@@ -89,7 +97,7 @@
       "price": "Dépend de la taille et du fruit"
     },
     {
-      "id": "12",
+      "id": "13",
       "title": "Pains suisses",
       "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Pains_suisses.jpg",
       "description": "Pâte à croissants, Crème pâtissière vanille, pistoles de chocolat",
