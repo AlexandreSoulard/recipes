@@ -105,6 +105,14 @@
       "price": "2€"
     },
     {
+      "id": "14",
+      "title": "Éclairs",
+      "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Pains_suisses.jpg",
+      "description": "Pâte à choux, crème pâtissière aromatisée (vanille, chocolat, café, pistache, citron, ...), glaçage",
+      "number": "Pour 1 éclair",
+      "price": "2€"
+    },
+    {
       "id": "15",
       "title": "Tropézienne",
       "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Tropezienne.jpg",
