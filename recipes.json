@@ -119,6 +119,14 @@
       "description": "Pâte à brioche (peut être aromatisée à la fleur d'oranger), crème pâtissière (vanille, pistache, chocolat, ...) et/ou crème au beurre",
       "number": "Pour 8 personnes environ",
       "price": "Entre 11€ et 20€ en fonction de la crème et du goût"
-    }
+    },
+    {
+      "id": "16",
+      "title": "Pavlova",
+      "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Pavlova.jpg",
+      "description": "Meringue suisse, crème chantilly, confit fruit, fruits (ceux que vous voulez)",
+      "number": "Pour 8 personnes",
+      "price": "15€"
+    },
   ]
 }
