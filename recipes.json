@@ -28,7 +28,7 @@
       "id": "4",
       "title": "Paris brest",
       "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Paris_brest.jpg",
-      "description": "Pâte à choux, crème mousseline praliné amande/noisette, praliné amande/noisette \nGoûts disponibles: praliné, pistache, vanille, noxi de pécan, sésame noir",
+      "description": "Pâte à choux, crème mousseline praliné amande/noisette, praliné amande/noisette \nGoûts disponibles: praliné, pistache, vanille, noxi de pécan, sésame noir, caramel",
       "number": "individuel",
       "price": "5€"
     },
@@ -36,7 +36,7 @@
       "id": "5",
       "title": "Paris brest à partager",
       "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Paris_brest_grand.jpg",
-      "description": "Pâte à choux, crème mousseline praliné amande/noisette, praliné amande/noisette \nGoûts disponibles: praliné, pistache, vanille, noix de pécan, sésame noir",
+      "description": "Pâte à choux, crème mousseline praliné amande/noisette, praliné amande/noisette \nGoûts disponibles: praliné, pistache, vanille, noix de pécan, sésame noir, caramel",
       "number": "4/6/8/10/12",
       "price": "10€/13€/16€/20€/24€"
     },
@@ -44,7 +44,7 @@
       "id": "6",
       "title": "Macarons",
       "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Macarons.jpg",
-      "description": "Meringue française, ganache (pistache, vanille, chocolat, citron, sésame noir, noix de précan)",
+      "description": "Meringue française, ganache (pistache, vanille, chocolat, citron, sésame noir, noix de précan, caramel)",
       "number": "Pour 1 macaron",
       "price": "0.5€"
     },
@@ -108,7 +108,7 @@
       "id": "14",
       "title": "Éclairs",
       "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Eclairs.jpg",
-      "description": "Pâte à choux, crème pâtissière aromatisée (vanille, chocolat, café, pistache, citron, ...), glaçage",
+      "description": "Pâte à choux, crème pâtissière aromatisée (vanille, chocolat, café, pistache, citron, caramel, ...), glaçage",
       "number": "Pour 1 éclair",
       "price": "2€"
     },
@@ -132,7 +132,7 @@
       "id": "17",
       "title": "Saint honoré",
       "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Saint_honore.jpg",
-      "description": "Pâte feuilletée, Choux garnis de crème chiboust (crème pâtissière + meringue italienne), Chantilly. \nParfums disponibles : vanille, chocolat, pistache, praliné, citron, sésame noir, noix de pécan",
+      "description": "Pâte feuilletée, Choux garnis de crème chiboust (crème pâtissière + meringue italienne), Chantilly. \nParfums disponibles : vanille, chocolat, pistache, praliné, citron, sésame noir, noix de pécan, caramel",
       "number": "4/6/8/10/12 personnes",
       "price": "Le prix dépend du goût et de la taille (entre 10€ et 40€)"
     }
