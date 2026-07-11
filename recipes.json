@@ -127,6 +127,14 @@
       "description": "Meringue suisse, crème chantilly, confit fruit, fruits (ceux que vous voulez)",
       "number": "Pour 8 personnes",
       "price": "15€"
+    },
+    {
+      "id": "17",
+      "title": "Saint honoré",
+      "image": "https://raw.githubusercontent.com/AlexandreSoulard/recipes/refs/heads/main/Saint_honore.jpg",
+      "description": "Pâte feuilletée, Choux garnis de crème chiboust (crème pâtissière + meringue italienne), Chantilly. \nParfums disponibles : vanille, chocolat, pistache, praliné, citron, sésame noir, noix de pécan",
+      "number": "4/6/8/10/12 personnes",
+      "price": "Le prix dépend du goût et de la taille (entre 10€ et 40€)"
     }
   ]
 }
